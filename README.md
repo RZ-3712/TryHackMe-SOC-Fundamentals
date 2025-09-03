@@ -3,16 +3,14 @@
 ## Objective
 [Brief Objective - Remove this afterwards]
 
-This TryHackMe project aims to build foundational knowledge and skills of an SOC (Security Operations Center), demonstrate how detection and response are the main focus of an SOC team, and explain the three pillars, which are people, process and technology. The project also includes a practical exercise where you get to experience what it's like to be a Level 1 Analyst of your organization’s SOC team.
+This TryHackMe project aims to build foundational knowledge and skills of an SOC (Security Operations Center), demonstrate how detection and response are the main focus of an SOC team, and explain the three pillars, which are people, process and technology. The project also includes a practical exercise where you get to experience what it's like to solve a real-world SOC alert as a level 1 Analyst of your organization’s SOC team.
 
 ### Skills Learned
 [Bullet Points - Remove this afterwards]
 
-- Advanced understanding of SIEM concepts and practical application.
-- Proficiency in analyzing and interpreting network logs.
-- Ability to generate and recognize attack signatures and patterns.
-- Enhanced knowledge of network protocols and security vulnerabilities.
-- Development of critical thinking and problem-solving skills in cybersecurity.
+- Detection and response in SOC.
+- The three pillars (people, process and technology) and how they play their roles in the day-to-day SOC use cases.
+- Ability to solve real-world SOC alerts as a level 1 Analyst.
 
 ### Tools Used
 [Bullet Points - Remove this afterwards]
