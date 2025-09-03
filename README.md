@@ -15,9 +15,7 @@ This TryHackMe project aims to build foundational knowledge and skills of an SOC
 ### Tools Used
 [Bullet Points - Remove this afterwards]
 
-- Security Information and Event Management (SIEM) system for log ingestion and analysis.
-- Network analysis tools (such as Wireshark) for capturing and examining network traffic.
-- Telemetry generation tools to create realistic network traffic and attack scenarios.
+- S
 
 ## Tasks
 drag & drop screenshots here or use imgur and reference them using imgsrc
