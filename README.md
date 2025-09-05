@@ -1,4 +1,5 @@
 # TryHackMe: SOC Fundamentals
+🔗 [SOC Fundamentals Room Link](https://tryhackme.com/room/socfundamentals)
 
 ## Objective
 [Brief Objective - Remove this afterwards]
@@ -15,7 +16,7 @@ This TryHackMe project aims to build foundational knowledge and skills of an SOC
 ### Tools Used
 [Bullet Points - Remove this afterwards]
 
-- S
+-  SIEM solution.
 
 ## Tasks
 drag & drop screenshots here or use imgur and reference them using imgsrc
