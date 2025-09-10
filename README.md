@@ -2,20 +2,14 @@
 🔗 [SOC Fundamentals Room Link](https://tryhackme.com/room/socfundamentals)
 
 ## Objective
-[Brief Objective - Remove this afterwards]
-
-This TryHackMe room aims to build foundational knowledge and skills of an SOC (Security Operations Center), demonstrate how detection and response are the main focus of an SOC team, and explain the three pillars, which are people, process and technology. The project also includes a practical exercise where you get to experience what it's like to solve a real-world SOC alert as a level 1 Analyst of your organization’s SOC team.
+This TryHackMe room, SOC Fundamentals, is designed to build foundational knowledge of Security Operations Centers (SOCs). It introduces the core responsibilities of an SOC team, with a focus on detection and response, and explains the three key pillars of an effective SOC: people, processes, and technology. The room also includes a hands-on exercise that simulates handling a real-world SOC alert, allowing learners to step into the role of a Level 1 SOC Analyst.
 
 ### Skills Learned
-[Bullet Points - Remove this afterwards]
-
 - Detection and response in SOC.
 - The three pillars (people, process and technology) and how they play their roles in the day-to-day SOC use cases.
 - Ability to solve real-world SOC alerts as a level 1 Analyst.
 
 ### Tools Used
-[Bullet Points - Remove this afterwards]
-
 -  SIEM solution.
 
 ## Tasks
